@@ -1,4 +1,4 @@
-module github.com/go-pkgz/email
+module github.com/ad/go-pkgz-email
 
 go 1.17
 
